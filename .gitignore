@@ -1,0 +1,8 @@
+.well-known
+midasConfig*.json
+nodeserver.cert
+nodeserver.key
+package-lock.json
+/brol
+/node_modules
+*.log
